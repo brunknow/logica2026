@@ -1,0 +1,3 @@
+1)Leia a idade de uma determinada quantidade de pessoas que também deverá ser informada pelo usuário e diga no final quantos são de maior e menor idade.
+
+2)Fazer um algoritmo para que seja lida uma determinada quantidade de números.  O usuário deverá ser perguntado se deseja continuar (S/s) caso outro caracter for digitado o programa será finalizado somando o total dos números digitados e exibindo a média.
